@@ -66,7 +66,7 @@ I'm drawn to the detective work in development — the moment when you understan
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=emeliefogelstrom&color=048A81&style=for-the-badge)
+[![Emelie's GitHub stats](https://github-stats-extended.vercel.app/api?username=emeliefogelstrom)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
