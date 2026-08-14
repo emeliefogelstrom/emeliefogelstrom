@@ -67,7 +67,7 @@ I'm drawn to the detective work in development — the moment when you understan
 
 <div align="center">
 
-[![Emelie's GitHub stats](https://github-stats-extended.vercel.app/api?username=emeliefogelstrom)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 </div>
 
