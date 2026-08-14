@@ -29,7 +29,7 @@ I'm drawn to the detective work in development — the moment when you understan
 
 | Project | Stack | Status |
 |--------|-------|--------|
-| 🚂 **[Trains](https://github.com/emeliefogelstrom/trains)** — Discrete event-driven simulation engine | C++23, CMake, GoogleTest | ✅ Complete |
+| 🚂 **[Trains](https://github.com/emeliefogelstrom/trains-simulation)** — Discrete event-driven simulation engine | C++23, CMake, GoogleTest | ✅ Complete |
 | 🖼️ **[Collection Showcase](https://github.com/emeliefogelstrom/CollectionShowcase)** — Full-stack collection manager | React, Node.js, MongoDB, JWT, Redux | 🔨 In progress |
 | 🐾 **SnoutWatch** — IoT vehicle pet safety monitor | ESP32-S3, nRF9160, React Native, MQTT, WebRTC | 🔨 In progress |
 | 🌿 **FenceGuard** — Predator detection with edge ML | LoRa, PIR sensors, ML classification | 📋 Planned |
