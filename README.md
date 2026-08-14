@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emelie-fogelstrom)
 [![GitHub followers](https://img.shields.io/github/followers/emeliefogelstrom?style=for-the-badge&color=048A81)](https://github.com/emeliefogelstrom)
-[![Visitor Count](https://profile-counter.glitch.me/{emeliefogelstrom}/count.svg)
 
 </div>
 
@@ -67,7 +66,7 @@ I'm drawn to the detective work in development — the moment when you understan
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=emeliefogelstrom)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emeliefogelstrom&show_icons=true&theme=nord&hide_border=true&count_private=true)
 
 </div>
 
