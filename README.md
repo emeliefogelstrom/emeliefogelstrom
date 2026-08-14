@@ -66,9 +66,7 @@ I'm drawn to the detective work in development — the moment when you understan
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=emeliefogelstrom&theme=nord&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emeliefogelstrom&layout=compact&theme=nord&hide_border=true)
+![Profile views](https://komarev.com/ghpvc/?username=emeliefogelstrom&color=048A81&style=for-the-badge)
 
 </div>
 
