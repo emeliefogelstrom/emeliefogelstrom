@@ -66,7 +66,7 @@ I'm drawn to the detective work in development — the moment when you understan
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=emeliefogelstrom&show_icons=true&theme=nord&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emeliefogelstrom&show_icons=true&theme=nord&hide_border=true&count_private=true&bg_color=00000000)
 
 </div>
 
